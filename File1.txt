@@ -4,4 +4,8 @@ Wellcome to persistent
 wellcome to git 
 
 config: test the merging bug1
+<<<<<<< HEAD
 bug2: file1 update to fix bug2 2nd person
+=======
+bug2: update the fix bug2
+>>>>>>> bug2
