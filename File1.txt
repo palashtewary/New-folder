@@ -2,3 +2,5 @@ Wellcome to persistent
 
 
 wellcome to git 
+
+config: testing the merging bug1
