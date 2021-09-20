@@ -3,4 +3,5 @@ Wellcome to persistent
 
 wellcome to git 
 
-config: testing the merging bug1
+config: test the merging bug1
+bug2: file1 update to fix bug2 2nd person
